@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/avis-devtools-allinone/static/css/main.98b3ce23.css",
+    "main.js": "/avis-devtools-allinone/static/js/main.978e3954.js",
+    "index.html": "/avis-devtools-allinone/index.html",
+    "main.98b3ce23.css.map": "/avis-devtools-allinone/static/css/main.98b3ce23.css.map",
+    "main.978e3954.js.map": "/avis-devtools-allinone/static/js/main.978e3954.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b3ce23.css",
+    "static/js/main.978e3954.js"
+  ]
+}
