@@ -16,5 +16,11 @@
     "name": "UUID Generator",
     "description": "Generate unique identifiers.",
     "icon": "🔑"
+  },
+  {
+    "id": "textcase",
+    "name": "Text Case Converter",
+    "description": "Convert text to camelCase, snake_case, kebab-case, UPPERCASE, lowercase.",
+    "icon": "🔤"
   }
 ]
