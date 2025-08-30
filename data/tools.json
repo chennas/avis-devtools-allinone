@@ -16,23 +16,5 @@
     "name": "UUID Generator",
     "description": "Generate unique identifiers.",
     "icon": "🔑"
-  },
-  {
-    "id": "json",
-    "name": "JSON Formatter",
-    "description": "Format and validate JSON data.",
-    "icon": "📝"
-  },
-  {
-    "id": "password",
-    "name": "Password Generator",
-    "description": "Generate strong, random passwords.",
-    "icon": "🔒"
-  },
-  {
-    "id": "uuid",
-    "name": "UUID Generator",
-    "description": "Generate unique identifiers.",
-    "icon": "🔑"
   }
 ]
