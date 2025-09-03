@@ -22,5 +22,11 @@
     "name": "Text Case Converter",
     "description": "Convert text to camelCase, snake_case, kebab-case, UPPERCASE, lowercase.",
     "icon": "🔤"
+    },
+  {
+    "id": "base64",
+    "name": "Base64 Encoder/Decoder",
+    "description": "Encode text to Base64 or decode Base64 to text easily.",
+    "icon": "🧬"
   }
 ]
