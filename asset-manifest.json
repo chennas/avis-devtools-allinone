@@ -1,13 +1,1 @@
-{
-  "files": {
-    "main.css": "/avis-devtools-allinone/static/css/main.b953428d.css",
-    "main.js": "/avis-devtools-allinone/static/js/main.cf1e5cf7.js",
-    "index.html": "/avis-devtools-allinone/index.html",
-    "main.b953428d.css.map": "/avis-devtools-allinone/static/css/main.b953428d.css.map",
-    "main.cf1e5cf7.js.map": "/avis-devtools-allinone/static/js/main.cf1e5cf7.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.b953428d.css",
-    "static/js/main.cf1e5cf7.js"
-  ]
-}
+{"files":{"main.css":"/static/css/main.1fbcfea0.css","main.js":"/static/js/main.aedc419c.js","index.html":"/index.html"},"entrypoints":["static/css/main.1fbcfea0.css","static/js/main.aedc419c.js"]}
